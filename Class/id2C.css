@@ -1,0 +1,13 @@
+#sec1{
+    background-color: darkgrey;
+}
+#sec1 p{
+    color: indianred;
+    font-size: 20px;
+}
+.style1{
+    color: hotpink;
+}
+.style2{
+    font-size: 60px;
+}
