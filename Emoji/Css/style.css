@@ -1,0 +1,11 @@
+h2{
+    text-transform: uppercase;
+    color: dodgerblue;
+}
+span{
+    font-size: 4rem;
+    color: rgb(245, 245, 250);
+}
+p{
+    background-color: rgb(146, 146, 255);
+}
