@@ -1,0 +1,21 @@
+a:hover{
+   
+    color: deeppink;
+}
+input:focus{
+    background-color: darkorange;
+}
+table,tr,td {
+
+    border: solid 1px ;
+}
+.demo p:nth-child(2){
+background-color: rgb(180, 210, 192);
+}
+p:hover{
+    background-color: salmon;
+}
+::selection{
+    background: rgb(241, 49, 10);
+    color: rgb(255, 252, 252);
+}
