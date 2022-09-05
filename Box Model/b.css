@@ -1,0 +1,23 @@
+h1{
+    
+    width: auto;
+    background-color: #EBC7E8;
+    margin: 20px 40px 30px 50px;
+}
+h2{
+    padding: 50px;
+    background-color: rgb(162, 225, 36);
+    width: unset;
+    text-transform: uppercase;
+    color: aliceblue;
+    font-size: 50px;
+    opacity: 90%;
+}
+body{
+    background-color: #A084CA;
+}
+.s1{
+   
+    color: rgb(6, 6, 6);
+    background-color: rgb(230, 58, 58)
+}
