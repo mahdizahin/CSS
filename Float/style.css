@@ -1,0 +1,15 @@
+div{
+    float: inline-end;
+}
+.cls1{
+    float:left ;
+    background-color:#97D2EC; 
+    display:block
+}
+.cls2{
+    float:right;
+    background-color:#97D2EC; 
+}
+.clear{
+    clear: both;
+}
