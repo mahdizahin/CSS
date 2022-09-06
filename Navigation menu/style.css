@@ -1,0 +1,22 @@
+/*div ul li{
+
+    display: block;
+    float: left;
+}*/
+
+.class1{
+ width: 500px;
+     height: 60px;
+     background-color: #2B4865;
+     margin:0 auto;
+}
+ 
+.class1 ul li{
+    list-style-type: none;
+    margin: 20px;
+    float: left;
+}
+.class1 ul li a {
+    text-decoration: none;
+    color:#00D7FF ;
+}
