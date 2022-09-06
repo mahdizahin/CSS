@@ -1,0 +1,23 @@
+.cls1{
+    color:#2B4865;
+    background-color: rgb(138, 223, 236);
+    height: 250px;
+    width: 50%;
+    box-sizing: border-box;
+    border: 5px gray solid;
+    float: left;
+}
+.cls2{
+    
+    background-color: #2B4865;
+    color: aliceblue;
+    height: 250px;
+    border: 5px rgb(199, 225, 160) solid;
+    box-sizing: border-box;
+    float: right;
+    width: 50%;
+}
+.cls3:hover{
+    opacity: 60%;
+}
+ 
