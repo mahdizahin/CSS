@@ -1,0 +1,11 @@
+.cls1{
+    text-align: center;
+    font-style: initial;
+    color: black;
+}
+img{
+    opacity: 50%;
+}
+.cls2:hover{
+opacity: 100%;
+}
