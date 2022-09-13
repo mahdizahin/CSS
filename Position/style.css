@@ -1,0 +1,13 @@
+.static{
+    position: static;
+    border: 3px solid #73AD21;
+    width: 150px;
+}
+.static2{
+    position: static;
+    border: 3px solid #bf1313;
+    width: 150px;
+}
+h1{
+    text-align: center;
+}
