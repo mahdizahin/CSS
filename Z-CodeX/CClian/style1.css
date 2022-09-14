@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+   
+   
+   
+}
+h1{
+ stroke: none;
+   
+}
+.Heading{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color:#D9F8C4 ;
+    background-image: url("b2.jpg");
+    background-size: 640px  ;
+    background-repeat: repeat-x;
+    padding: 60px;
+    font-size: 25px;
+    
+}
+.bodyClass{
+    float: left;
+    background-color: #c8d3dc;
+    width: 100%;
+}
+.comlum{
+ float: left;
+ padding: 15px;
+}
