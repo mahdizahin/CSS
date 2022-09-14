@@ -1,0 +1,7 @@
+.align{
+    text-align: center;
+    border: 3px solid rgb(123, 123, 132);
+    padding: 10px;
+    margin: auto;
+    width: 30%;
+}

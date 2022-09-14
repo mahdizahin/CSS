@@ -1,0 +1,9 @@
+.align{
+    text-align: center;
+    border: 5px solid red;
+    padding: 10px;
+    margin: auto;
+    width: 30%;
+    background-color: black;
+    color: red;
+}
